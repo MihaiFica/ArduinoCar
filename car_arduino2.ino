@@ -39,7 +39,7 @@ void loop()
     Serial.println(distanta);
     if(distanta < 15)                                                   //algoritm prin care se evita ciocnirea masinii cu un obstacol
         {                                                               //daca masina ajunge la 15 centimetrii de un obstocol motoarele isi schimba sensul de rotatie ,iar masina se departeaza de obstacol
-            if(distanta < 40)                                           //in acest timp controlul nu este la utilizator  
+            while(distanta < 40)                                           //in acest timp controlul nu este la utilizator  
                 { 
                     digitalWrite(motorA1, HIGH);
                     digitalWrite(motorA2, LOW);

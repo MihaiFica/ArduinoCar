@@ -1,4 +1,4 @@
-                             # Car
+                                     # ArduinoCar
 
 
 Componente:
@@ -10,7 +10,7 @@ Componente:
 - Arduino UNO
 - Fire
 
-                            # Descriere
+                                      # Descriere
 
 Proiectul consta intr-o masina controlata de catre un telefon.Aceasta masina puate lua urmatoarele comenzi:
 - Mers inainte

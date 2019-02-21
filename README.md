@@ -17,5 +17,6 @@ Proiectul consta intr-o masina controlata de catre un telefon.Aceasta masina pua
 - Mers inapoi
 - Viraj stanga
 - Viraj dreapta
+
 Masina are un sistem prin care evita contacul cu orice obstacol din fata ei.Mai exact in momentul in care masina ajunge la 15 centimetrii de un obstocol motoarele isi schimba sensul de rotatie ,iar masina se departeaza de obstacol.In acest timp controlul nu este la utilizator.
 

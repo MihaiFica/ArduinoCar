@@ -12,6 +12,8 @@
  float distanta;
  char stare;
  Servo myservo; 
+
+
 void setup()  
 {
     myservo.attach(servoMotor);
@@ -22,10 +24,9 @@ void setup()
     pinMode(motorB1, OUTPUT);
     pinMode(motorB2, OUTPUT);
     BTSerial.begin(38400);
-    Serial.begin(9600);
-   
-    
+    Serial.begin(9600);   
 }
+
 
 void loop() 
 {

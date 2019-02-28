@@ -20,3 +20,4 @@ Proiectul consta intr-o masina controlata de catre un telefon.Aceasta masina pua
 
 Masina are un sistem prin care evita contacul cu orice obstacol din fata ei.Mai exact in momentul in care masina ajunge la 15 cm de un obstocol motoarele isi schimba sensul de rotatie ,iar masina se departeaza de obstacol.In acest timp controlul nu este la utilizator.
 
+https://www.youtube.com/watch?v=doBH05AQUh0&ab_channel=FMTV
